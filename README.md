@@ -411,7 +411,7 @@ Pull requests are welcome. If you find a bug or have a feature idea, please open
 
 ```bash
 
-git clone \[https://github.com/marcomorosi06/Cussi-Parking-Android.git](https://github.com/marcomorosi06/Cussi-Parking-Android.git)
+git clone https://github.com/marcomorosi06/Cussi-Parking-Android.git
 
 ```
 
@@ -427,7 +427,7 @@ If you prefer to build the app manually using Gradle instead of Android Studio, 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/marcomorosi06/Cussi-Parking-Android.git](https://github.com/marcomorosi06/Cussi-Parking-Android.git)
+   git clone https://github.com/marcomorosi06/Cussi-Parking-Android.git
    ```
 2. **Navigate to the project directory:**
    ```bash
